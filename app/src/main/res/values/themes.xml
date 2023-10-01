@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EtcsQuiz" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.EtcsQuiz" parent="Base.Theme.EtcsQuiz" />
+
+    <style name="Theme.EtcsQuiz.Fullscreen" parent="Theme.EtcsQuiz">
+        <item name="android:actionBarStyle">@style/Widget.Theme.EtcsQuiz.ActionBar.Fullscreen</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="ThemeOverlay.EtcsQuiz.FullscreenContainer" parent="">
+        <item name="bg_color">@color/alternative_dark</item>
+        <item name="text_color">@color/text_dark</item>
+    </style>
+</resources>

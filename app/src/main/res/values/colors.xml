@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <!--Light-->
+    <color name="primary_light">#9fc8da</color>
+    <color name="secondary_light">#030412</color>
+    <color name="alternative_light">#fe8347</color>
+    <color name="text_light">#fdfdfa</color>
+    <color name="extra1_light">#1f577d</color>
+    <color name="extra2_light">#a2dcf0</color>
+    <!--Dark -->
+    <color name="primary_dark">#1f577d</color>
+    <color name="secondary_dark">#52acda</color>
+    <color name="alternative_dark">#9fc8da</color>
+    <color name="text_dark">#030412</color>
+    <color name="extra1_dark">#fe8347</color>
+    <color name="extra2_dark">#a2dcf0</color>
+</resources>
